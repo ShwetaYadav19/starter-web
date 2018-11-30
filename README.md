@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+As stated the purpose is to present a simple demo.
+
 ## Deployment
 
 ## How to use
