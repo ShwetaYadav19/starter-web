@@ -16,3 +16,6 @@ As stated the purpose is to present a simple demo.
 It is simple to use file
 
 Sample website with plenty of files for demos
+
+###  Copyright 
+This is copyright section
