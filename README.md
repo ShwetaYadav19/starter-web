@@ -18,4 +18,4 @@ It is simple to use file
 Sample website with plenty of files for demos
 
 ###  Copyright 
-This is copyright section
+This is copyright section notice
