@@ -20,6 +20,7 @@ Sample website with plenty of files for demos
 
 ###  Copyright 
 This is copyright section notice
+All rights reserved.
   
   
 ## How to contribute
